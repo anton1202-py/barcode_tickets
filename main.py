@@ -1,7 +1,7 @@
-import sys
 import glob
-import time
 import pandas as pd
+import sys
+import time
 from pathlib import Path
 from PyQt5.QtWidgets import (QApplication, QFileDialog, QGridLayout, 
                              QHBoxLayout, QMainWindow, QLabel,
